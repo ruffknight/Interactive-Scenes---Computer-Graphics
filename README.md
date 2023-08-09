@@ -1,7 +1,5 @@
 # Computer Graphics Project - Interactive Scenes using Three.js
 
-![Computer Graphics](https://i.ibb.co/example-image.png)
-
 ## Introduction
 
 The **Computer Graphics Project** focuses on creating interactive scenes using the Three.js library. The project consists of multiple parts, each addressing different aspects of computer graphics, including scene creation, camera manipulation, materials, lighting, and textures.
